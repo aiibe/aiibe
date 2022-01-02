@@ -1,6 +1,6 @@
-<p style="display:flex; justify-content:space-between">
+<p>
   <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/octocat.png" alt="aiibe" width="180" height="180">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiibe&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiibe&layout=compact" />
 
 </p>
 
