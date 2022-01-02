@@ -9,4 +9,4 @@ In 2021, I began to switch to TypeScript. Most of my projects are built out of c
 
 #
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiibe&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiibe&layout=compact" />
