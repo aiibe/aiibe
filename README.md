@@ -1,4 +1,4 @@
-<p>
+<p style="display:flex; justify-content: space-between">
   <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/octocat.png" alt="aiibe" width="180" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiibe&layout=compact" />
 
