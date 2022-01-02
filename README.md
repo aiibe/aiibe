@@ -14,5 +14,8 @@ https://souksyp.com
 ## Web Technologies (I've experimented with)
 
 <p>
-  <img src="" alt="" width="" height="">
+  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/typescript.svg" alt="typescript" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/react.svg" alt="react" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/tailwindcss.svg" alt="typescript" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/nodedotjs.svg" alt="typescript" width="35" height="35">
 </p>
