@@ -15,7 +15,8 @@ https://souksyp.com
 
 <p>
   <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/typescript.svg" alt="typescript" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/svelte.svg" alt="svelte" width="35" height="35">
   <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/react.svg" alt="react" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/tailwindcss.svg" alt="typescript" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/nodedotjs.svg" alt="typescript" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/tailwindcss.svg" alt="tailwind" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/nodedotjs.svg" alt="nodejs" width="35" height="35">
 </p>
