@@ -6,7 +6,7 @@
 
 # Hi everyone 👋
 
-My name is Souksavanh Syphanravong (aka Souk). I am front-end developer based in Strasbourg, France, who developed Javascript apps.
+My name is Souksavanh Syphanravong (aka Souk). I am a front-end developer based in Strasbourg, France, who developed Javascript apps.
 In 2021, I began to switch to TypeScript. Most of my projects are built out of curiosity.
 
 https://souksyp.com
