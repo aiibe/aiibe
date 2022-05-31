@@ -1,7 +1,7 @@
 # Hi there, I am Souk 👋
 
-A front-end developer based in Strasbourg, who developed Javascript and React apps. </br>
-In 2021, I began to switch to TypeScript. Most of my projects are built out of curiosity.
+Based in Lyon, I developed Javascript and React apps. </br>
+In 2021, I began to switch to TypeScript.
 
 https://souksyp.com
 
