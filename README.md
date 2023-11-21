@@ -3,7 +3,7 @@
 Based in Lyon, I developed Javascript and React apps. </br>
 In 2021, I began to switch to TypeScript, and never looked back!
 
-https://souksyp.com
+https://souk.dev
 
 ## Web Technologies (I've experimented with)
 
