@@ -4,7 +4,7 @@ Based in Lyon, I develop React apps in Typescript. </br>
 
 https://souk.dev
 
-## Web Technologies (I've experimented with)
+## Technologies in Web Development I've Explored
 
 <p>
   <img src="https://raw.githubusercontent.com/aiibe/aiibe/main/typescript.svg" alt="typescript" width="35" height="35">
