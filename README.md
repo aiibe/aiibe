@@ -1,6 +1,6 @@
 # Hi there, I am Souk 👋
 
-Based in Lyon, I develop Typescript and React apps. </br>
+Based in Lyon, I develop React apps in Typescript. </br>
 
 https://souk.dev
 
