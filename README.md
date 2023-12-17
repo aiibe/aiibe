@@ -1,7 +1,6 @@
 # Hi there, I am Souk 👋
 
-Based in Lyon, I developed Javascript and React apps. </br>
-In 2021, I began to switch to TypeScript, and never looked back!
+Based in Lyon, I develop Typescript and React apps. </br>
 
 https://souk.dev
 
